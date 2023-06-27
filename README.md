@@ -7,34 +7,43 @@ Installation
 To get started with the project, follow these steps:
 
 1.Clone the repository:
+
 https://github.com/Bree-Wanjiru/Opportunity-Management.git
 
 2.Navigate to the project directory:
+
 cd project
 
 3.Install the project dependencies using Composer:
+
 composer install
 
 4.Create a copy of the .env.example file and rename it to .env:
+
 cp .env.example .env
 
 5.Generate an application key:
+
 php artisan key:generate
 
 6.Configure your environment variables in the .env file, including the database connection settings.
 
 7.Run the database migrations:
+
 php artisan migrate
 
 8.Optionally, seed the database with sample data:
+
 php artisan db:seed
 
 9.Start the development server:
+
 php artisan serve
 
 10.Access the application by visiting http://localhost:8000 in your web browser.
 
 Usage
+
 Demo Credentials
 Email: admin@gmail.com
 Username:admin
