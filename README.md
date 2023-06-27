@@ -46,8 +46,8 @@ Usage
 
 Demo Credentials
 
-Email: admin@gmail.com
-Username:admin
+Email: useradmin@gmail.com
+Username:Admin
 Password: 12345678
 
 Email:evansuser
