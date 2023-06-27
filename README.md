@@ -7,7 +7,7 @@ Installation
 To get started with the project, follow these steps:
 
 1.Clone the repository:
-git clone https://github.com/your-username/project.git
+https://github.com/Bree-Wanjiru/Opportunity-Management.git
 
 2.Navigate to the project directory:
 cd project
