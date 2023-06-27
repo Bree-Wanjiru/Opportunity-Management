@@ -45,6 +45,7 @@ php artisan serve
 Usage
 
 Demo Credentials
+
 Email: admin@gmail.com
 Username:admin
 Password: 12345678
@@ -54,21 +55,30 @@ User: user1@gmail.com
 Password: 12345678
 
 Configuration
+
 The project configuration can be found in the .env file. Here are some of the important configuration options:
 
 APP_ENV: Set the application environment (e.g., local, production).
+
 APP_KEY: Application key generated using php artisan key:generate.
+
 DB_CONNECTION: Database connection driver (e.g., mysql, pgsql, sqlite).
+
 DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME, DB_PASSWORD: Database connection details.
 
 Contributing
 Contributions to the project are welcome! If you find any issues or want to add new features, please follow these steps:
 
 1.Fork the repository.
+
 2.Create a new branch for your feature or bug fix.
+
 3.Make your changes and commit them.
+
 4.Push your changes to your forked repository.
+
 5.Submit a pull request to the original repository.
+
 Please ensure that your code follows the project's coding standards and is well-documented.
 
 License
